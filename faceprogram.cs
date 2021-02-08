@@ -91,7 +91,6 @@ Please Enter the Centimeters you would like converted");
 				divisors+=1;
 			}
 		}
-		Console.WriteLine(divisors);
 		if(divisors>2){return false;}
 		return true;
 	}
